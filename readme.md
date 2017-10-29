@@ -1,4 +1,4 @@
-Simple chat using NodeJs and SocketIo.
+**_Simple chat using NodeJs and SocketIo._**
 
 To run first run the command `npm install`
 
